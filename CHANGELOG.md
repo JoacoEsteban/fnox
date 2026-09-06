@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.35.2](https://github.com/jdx/fnox/compare/v1.35.1..v1.35.2) - 2026-09-06
+
+### 📚 Documentation
+
+- overhaul guides and redesign the documentation site by [@jdx](https://github.com/jdx) in [#817](https://github.com/jdx/fnox/pull/817)
+
+### 🔍 Other Changes
+
+- **(ci)** isolate mise state in performance jobs by [@jdx](https://github.com/jdx) in [#815](https://github.com/jdx/fnox/pull/815)
+- **(release)** publish native completions in packslip by [@jdx](https://github.com/jdx) in [#814](https://github.com/jdx/fnox/pull/814)
+
+### 📦️ Dependency Updates
+
+- bump mr-boxington to 1.8.3 by [@jdx](https://github.com/jdx) in [#816](https://github.com/jdx/fnox/pull/816)
+
 ## [1.35.1](https://github.com/jdx/fnox/compare/v1.35.0..v1.35.1) - 2026-09-05
 
 ### 📚 Documentation
@@ -14,6 +29,7 @@
 
 ### 🔍 Other Changes
 
+- **(ci)** bump packslip to v1.1.1 by [@jdx](https://github.com/jdx) in [#812](https://github.com/jdx/fnox/pull/812)
 - **(release)** publish a signed packslip with each release by [@jdx](https://github.com/jdx) in [#807](https://github.com/jdx/fnox/pull/807)
 - **(release)** bump packslip action to v1.0.0 by [@jdx](https://github.com/jdx) in [#810](https://github.com/jdx/fnox/pull/810)
 - enforce conventional commits by [@jdx](https://github.com/jdx) in [#809](https://github.com/jdx/fnox/pull/809)
